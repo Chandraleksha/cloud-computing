@@ -36,4 +36,4 @@ jobs:
         pytest
     - name: Run Python script
       run: |
-        python Lab3.py
+        python lab3.py
